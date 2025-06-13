@@ -8,7 +8,7 @@ Mudrabharati is a novel and unified fingerspelling system for Indic scripts in g
 
 ## Steps for installation
 
-1) Download the zip file and extract the files to a folder.
+1) Download the zip file using the drive link and extract the files to a folder.
 2) Please ensure that the dependent files are in the same directory as the .exe file.
 3) Open the mudrabharati_desktop.exe file to run the application and explore MUDRABHARATI!
 
